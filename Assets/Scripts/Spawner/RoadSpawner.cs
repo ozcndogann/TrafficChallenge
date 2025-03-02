@@ -6,7 +6,7 @@ public class RoadSpawner : MonoBehaviour
     [SerializeField]
     GameObject[] sectionsPrefabs;
 
-    GameObject[] sectionsPool = new GameObject[3];
+    GameObject[] sectionsPool = new GameObject[5];
     public GameObject[] sections = new GameObject[3];
     Transform playerCarTransform;
     WaitForSeconds waitFor100ms = new WaitForSeconds(0.1f);

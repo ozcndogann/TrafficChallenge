@@ -29,6 +29,7 @@ public class CarController : MonoBehaviour
         Vector3 targetPosition = new Vector3(targetXPosition, transform.position.y, transform.position.z);
         transform.position = Vector3.SmoothDamp(transform.position, targetPosition, ref velocity, smoothTime);
         UpdateRotation();
+        //Debug.Log(currentLane);
     }
 
     private void MoveCar()
@@ -64,13 +65,9 @@ public class CarController : MonoBehaviour
 
         if (targetLane <= 1 && targetLane >= -1)
         {
-            currentLane = targetLane;
+            currentLane = direction;
             isChangingLane = true; 
             targetYRotation = direction == 1 ? 15f : -15f; // Cars rotation between lanes
-        }
-        if (targetLane == 0)
-        {
-            targetLane = -1;
         }
     }
 
