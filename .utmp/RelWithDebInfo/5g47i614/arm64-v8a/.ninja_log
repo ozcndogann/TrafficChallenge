@@ -1,0 +1,12 @@
+# ninja log v5
+71	513	7625408993864755	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	da3b390248d3376d
+515	811	7625408996827009	D:/Github/TrafficChallenge/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5g47i614/obj/arm64-v8a/libswappywrapper.so	6bf5d72b933b8e7f
+25	1431	7625409002911301	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	81578f2f918b02e8
+18	1471	7625409003296854	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	8f8b8fe29926769
+46	1473	7625409003367060	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	ff16d1d171c90458
+63	1496	7625409003727634	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	8f3df215afbadae9
+55	1589	7625409004597720	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	e84e5852a12566cd
+1	1653	7625409005259783	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	ffee6ba4dbc31f15
+34	1837	7625409007152390	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	8fad03a2060b737
+10	1976	7625409008567938	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	68e425d5affd1554
+1976	2123	7625409010036825	D:/Github/TrafficChallenge/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5g47i614/obj/arm64-v8a/libgame.so	4957f564f61dee3c
